@@ -1,7 +1,6 @@
 # Labour
 
-INSPIRATION     
-https://dev.to/hackmamba/build-a-rest-api-with-golang-and-mongodb-gin-gonic-version-269m
+INSPIRATION Learning Golang
 
 ABOUT   
 This is a mock labour office API using mongoDB and GO for REST_API.
